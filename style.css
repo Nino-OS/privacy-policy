@@ -451,10 +451,6 @@ section {
   }
 
   .section {
-    display: none;
-  }
-
-  .section {
     width: 280px;
     font-size: 12px;
     cursor: default;
