@@ -429,6 +429,9 @@ section {
 
 .footer {
   color: #ffffff;
+  position: fixed;
+  width: 100%;
+  bottom: 0;
 }
 
 .footer:hover {
